@@ -8,9 +8,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://mouse.db.elephantsql.com:5432/vqxaokzu
+    url: jdbc:postgresql://abul.db.elephantsql.com:5432/jksmptkm
     username: vqxaokzu
-    password: RXbKPTKTV3iL1AQB1fTLl5G5yOPJcjB0
+    password: QDGvUn5oMJjTEIvBGZXw3O0Cr2c2BjYO
     hikari:
       maximum-pool-size: 3
       minimum-idle: 3
